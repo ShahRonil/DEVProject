@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>Winter Solstice Celebrations Around the World</title>
-    <!-- Link to Google Fonts -->
+    
     <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
     
     <style>
-        /* General Styles */
+        
         body {
             font-family: 'Permanent Marker', cursive; /* Wintery body text */
             margin: 0;
@@ -19,7 +19,7 @@
             cursor: url('http://www.rw-designer.com/cursor-view/183072.png'), pointer; 
         }
 
-        /* North Pole Themed Header */
+        
         #main-header {
             background: url('https://images.contentstack.io/v3/assets/blt279b94f6e22ca52e/blt45b8900ac424d4d9/6033ea64d0e3f0162ee92563/BH_00690-2000x1334.jpg') no-repeat center 36%;
             background-size: cover;
@@ -34,7 +34,7 @@
             margin: 0;
         }
 
-        /* Navigation styles */
+        
         #main-nav {
             background-color: #333;
             text-align: center;
@@ -62,7 +62,7 @@
             text-decoration: underline;
         }
 
-        /* Section Styles */
+        
         section {
             padding: 20px;
             margin: 20px;
@@ -72,7 +72,7 @@
             font-family: 'Permanent Marker', cursive;
         }
 
-        /* Australia Themed Footer */
+        
         #main-footer {
             background: url('https://cdn.dribbble.com/users/722246/screenshots/2273454/night_hill.gif') no-repeat center center;
             background-size: cover;
@@ -182,14 +182,14 @@
 </head>
 <body>
 
-    <!-- North Pole Themed Header -->
+    
     <header id="main-header">
         <div class="header-content">
             <h1>Celebrating the Winter Solstice</h1>
         </div>
     </header>
 
-    <!-- Main Navigation -->
+    
     <nav id="main-nav">
         <ul>
             <li><a href="#introduction">🌒Introduction</a></li>
@@ -272,7 +272,7 @@
     </section>
 
 
-    <!-- Australia Themed Footer -->
+    
     <footer id="main-footer">
         <p>&copy; 2024 Winter Solstice Celebrations</p>
         <nav id="footer-nav">
